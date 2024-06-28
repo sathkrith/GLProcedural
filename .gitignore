@@ -1,0 +1,7 @@
+*.pdb
+*.exe
+*.ilk
+*.vs
+*.vscode/*
+*build*
+*x64*
